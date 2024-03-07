@@ -8,5 +8,5 @@ Chainsight is based on Internet Computer's [Chain-key Cryptography](https://supp
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-08-16 at 16.56.33.png" alt=""><figcaption><p>Chainsight Architecture</p></figcaption></figure>
 
-Components deployed by developers using the CLI run on Internet Computer as Composable Data Oracles. Apart from these, Chainsight Management Canisters have been deployed to control the entire network, and incentives for data providers and alerts for corrupt data will be implemented in the future milestone.
+Components deployed by developers using the CLI or UI run on Internet Computer as Composable Data Oracles. Apart from these, Chainsight Management Canisters have been deployed to control the entire network, and incentives for data providers and alerts for corrupt data will be implemented in the future milestone.
 

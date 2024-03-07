@@ -4,7 +4,7 @@ description: Why is Chainsight needed?
 
 # Motivation
 
-Blockchains are state machines and are not designed to handle large amounts of data. DApps running on the blockchain are basically designed to be simple state management. This is quite straightforward in designing the protocol. However, it is difficult when trying to develop slightly more complex applications. As a result, the future that World Computer originally envisioned, where any kind of applications keep working sustainably, has not yet arrived.
+Data in the blockchain is difficult to handle as in the regular Web. When bringing data into the blockchain from outside the blockchain, one has to rely on a data collection mechanism created by an organization and its Oracle Contract. In addition, Blockchains are state machines and are not designed to handle large amounts of data. DApps running on the blockchain are basically designed to be simple state management. This is quite straightforward in designing the protocol. However, it is difficult when trying to develop slightly more complex applications. In blockchain, it is difficult to handle such a wide variety or large volume of data as the Web.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-08-16 at 21.11.07.png" alt=""><figcaption><p>Chainsight: Data Processing Layer</p></figcaption></figure>
 

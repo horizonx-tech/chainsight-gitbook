@@ -4,23 +4,30 @@ description: Composable Oracle Network
 
 # Introduction
 
-Welcome to Chainsight — a composable oracle network.
+Welcome to Chainsight — New Standard of Data Service Platform
 
 ### Chainsight Overview
 
-The purpose of Chainsight is to make on-chain data available as beneficial information.
+Chainsight indexes or computes data from any source, stores it, and makes it propagatable across any network.
+Chainsight provides a data platform that allows Web2/Web3 users to work with any cross-chain/real-world data.
 
 <figure><img src=".gitbook/assets/Screenshot 2023-08-16 at 16.22.58.png" alt=""><figcaption><p>Overall Picture</p></figcaption></figure>
 
-### For DApp Developers
+### For Developers
 
-Chainsight makes it easy and safe to prepare data for on-chain applications. You can deploy data indexers and open logic with Chainsight CLI to make the data you want available through Optimistic Data Oracles. You can sync any data to the chain your application is running on, such as Optimism and Scroll.
+With Chainsight, you can easily and securely prepare any necessary data, including economic indicators and price data for on-chain applications; deploy Data Indexer and Open Logic components in Chainsight, and make Optimistic Data Data Indexer and open logic components can be deployed in Chainsight to make the necessary data available to Optimistic Data Oracles. These Oracles can be deployed in various chains and data can be synchronized.
 
 ### For Data Analysts
 
-Chainsight allows you to collect the data you need from any chain. (Only EVM is supported in the initial phase.) Since data can be retrieved and analyzed using Rust instead of SQL (Python will be supported), advanced analytical data such as volatilities and risk calculations can be seen in Chainsight. The collected data can be viewed in a dashboard and displayed as time-series graphs.
+Chainsight allows you to collect the data you need from any chain. (Only EVM is supported in the initial phase.) Analysts can acquire and analyze data as they wish by expressing the analyst's own logic, advanced analytical data such as volatilities and risk calculations can be seen in Chainsight. The collected data can be viewed in a dashboard and displayed as time-series graphs.
 
-<figure><img src=".gitbook/assets/Screenshot 2023-08-16 at 16.11.18.png" alt=""><figcaption><p>Realized Volatility Chart </p></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2023-08-16 at 16.11.18.png" alt=""><figcaption><p>Realized Volatility Chart</p></figcaption></figure>
+
+### For Trader
+
+Chainsight allows you to build automated trading or asset management strategies that get executed directly on any chain you choose. Choose your intervals, assets, and even build out entire models to monitor market conditions all in one data pipeline.
+
+---
 
 You want to learn
 
