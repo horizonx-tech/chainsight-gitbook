@@ -19,7 +19,7 @@ With Chainsight, you can easily and securely prepare any necessary data, includi
 
 ### For Data Analysts
 
-Chainsight allows you to collect the data you need from any chain. (Only EVM is supported in the initial phase.) Analysts can acquire and analyze data as they wish by expressing the analyst's own logic, advanced analytical data such as volatilities and risk calculations can be seen in Chainsight. The collected data can be viewed in a dashboard and displayed as time-series graphs.
+Chainsight allows you to collect the data you need from any chain. Analysts can acquire and analyze data as they wish by expressing the analyst's own logic, advanced analytical data such as volatilities and risk calculations can be seen in Chainsight. The collected data can be viewed in a dashboard and displayed as time-series graphs.
 
 <figure><img src=".gitbook/assets/Screenshot 2023-08-16 at 16.11.18.png" alt=""><figcaption><p>Realized Volatility Chart</p></figcaption></figure>
 

@@ -26,7 +26,7 @@ For example, you can incorporate volatility calculated based on historical data 
 
 ### **Q. What L1/L2 does Chainsight support**
 
-We will initially support Ethereum, Avalanche, and Scroll, and will add support for EVM-based chains as needed. We plan to announce partnerships in due course.
+We support EVM-based chains at the moment, and expanding our horizons to Bitcoin L2 and Non-EVM chains. We plan to announce partnerships in due course.
 
 ### Q. Is Chainsight a bridge?
 
