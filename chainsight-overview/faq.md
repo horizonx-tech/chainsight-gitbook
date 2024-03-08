@@ -10,11 +10,15 @@ Please note that since Chainsight is still under development, specifications may
 
 ### Q. What is Chainsight in a nutshell?
 
-Chainsight is an interchain composable oracle network. Some indexers store historical snapshot data, and some lens components calculate new data based on the indexers. A large number of components are combined as data logos to efficiently get the desired data you want.
+Chainsight is data service platform with composable oracles that bridge between chains or on-chain and off-chain.
+
+An indexer takes data from any on-chain or web source and stores it as a snapshot, a lens component computes and generates new indices/data from the stored snapshots, a relayer propagates the data to the different chains.
+
+This combination of numerous components allows for efficient computation and propagation of the data required.
 
 ### Q. What is a typical use of Chainsight?
 
-Dynamic DeFi based on data-driven decision-making. For example, when considering a Dynamic Money Market, a feature could be implemented through Chainsight's historical data that would automatically list assets there if they meet specified criteria.
+This is effective for any Dapps that handle "data" in a creative way. A typical example is Dynamic DeFi based on data-driven decision-making. When considering a Dynamic Money Market, a feature could be implemented through Chainsight's historical data that would automatically list assets there if they meet specified criteria. Not just for DeFi, users can target and leverage any data, including data queries from Web2 social media APIs, sports/sports data for betting applications, etc.
 
 ### Q. What kind of data we can use?
 
@@ -22,7 +26,7 @@ For example, you can incorporate volatility calculated based on historical data 
 
 ### **Q. What L1/L2 does Chainsight support**
 
-We first support Ethereum, Avalanche, and Scroll. We will gradually announce partnerships in the future.
+We support EVM-based chains at the moment, and expanding our horizons to Bitcoin L2 and Non-EVM chains. We plan to announce partnerships in due course.
 
 ### Q. Is Chainsight a bridge?
 
@@ -30,7 +34,7 @@ No, data is written directly from Chainsight via [DKG](https://eprint.iacr.org/2
 
 ### Q. Is Chainsight built on an original layer1 or such?
 
-No, Chainsight is not L1, but a collection of canister smart contracts running on Internet Computer. It is composed of not only components that process data, but also various canisters, including a management canister that monitors inter-calls between canisters.
+No, Chainsight is not L1, It is a data platform built on the Internet Computer Blockchain. The platform consists of a set of highly customized canister smart contracts. It is composed of not only components that process data, but also various canisters, including a management canister that monitors inter-calls between canisters. Users can add the data pipeline they need through simple tools and UI.
 
 ### Q. Why is Chainsight so efficient at capturing data?
 
