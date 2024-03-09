@@ -19,6 +19,11 @@ In contrast to the Indexer, the Algorithm Lens and Relayer do not store the stat
 
 By offering a structured architecture for managing data from various blockchains, Chainsight simplifies the process for developers to access and utilize essential on-chain data in their applications. To explore use cases on how to combine these components, please click [here](../use-cases/exploring-chainsights-potential/demo1-decentralization-assessment.md).
 
+The following articles also do a deep dive into the components.
+
+https://chainsight.network/blog/look-into-snapshot-indexer
+https://chainsight.network/blog/look-into-relayer
+
 ### How to Deploy an Indexer
 
 Users can effortlessly deploy an Indexer through the WebUI by providing essential information such as the target contract address and event name and making a payment without requiring in-depth knowledge about the backend of Chainsight. For example, an Event Indexer can be deployed by entering the target contract's Network ID and the contract address and selecting the target event. For an Algorithm Indexer, deployment is achieved by selecting which Indexer to use as the data source and describing the desired algorithm.

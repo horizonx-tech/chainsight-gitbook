@@ -22,12 +22,12 @@
   * [Demo2: Volatility Oracles](use-cases/exploring-chainsights-potential/demo2-volatility-oracles.md)
   * [Demo3: Cross-Chain Lending](use-cases/exploring-chainsights-potential/demo3-cross-chain-lending.md)
   * [Demo4: Malicious Address Tracker](use-cases/exploring-chainsights-potential/demo4-malicious-address-tracker.md)
+* [Chainsight Showcase](https://github.com/horizonx-tech/chainsight-showcase)
 
 ## Project Links
 
 * [Landing Page](https://chainsight.network/)
 * [Early Access Application](https://forms.gle/dUMXyFG196pPXvWi7)
 * [GitHub](https://github.com/horizonx-tech)
-  * [Chainsight Showcase](https://github.com/horizonx-tech/chainsight-showcase)
 * [X - Chainsight](https://x.com/Chainsight_)
 * [Medium](https://medium.com/@Chainsight_Network)
