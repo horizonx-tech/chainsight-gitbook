@@ -8,8 +8,8 @@ Chainsight empowers developers to access and utilize desired on-chain data throu
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-04-26 at 10.42.32.png" alt=""><figcaption><p>Three Indexers, Lens, and Relayer</p></figcaption></figure>
 
+* **Snapshot Indexer** - This component can routinely collect data from any source. Periodically query view functions such as smart contracts and algorithmic lenses or periodically call specified endpoints deployed on the Web, and track the results of those calls. Periodic snapshot data can serve as historical data for further analysis.
 * **Event Indexer** - Synchronizes event data from a specified blockchain and stores a list of event records. For example, collecting ERC-20 Transfer events can provide a basis for analyzing token transfer history. This data is primarily prepared for use with subsequent components.
-* **Snapshot Indexer** - Periodically queries view functions, such as Smart Contracts and Algorithm Lens, to track results. Periodic snapshot data can serve as historical data for further analysis.
 * **Algorithm Indexer** - Processes the raw data collected by Event Indexer and Snapshot Indexer for analysis and generates insightful metrics. For instance, the Algorithm Indexer takes the raw data of ERC-20 Transfer events from the Event Indexer and creates separate mapping data on how many tokens are held by each address.
 
 In contrast to the Indexer, the Algorithm Lens and Relayer do not store the state themselves but write to other blockchains.
@@ -26,6 +26,3 @@ Users can effortlessly deploy an Indexer through the WebUI by providing essentia
 ### Synchronization Interval
 
 Indexers and Relayers synchronize data at regular intervals. For example, if an Event Indexer is set to synchronize data every hour, it will synchronize the difference data at that time. Synchronization intervals can be managed by the owner who deployed the Indexer or Relayer. Developers must set appropriate time intervals, taking into account the fees to be consumed and the application requirements.
-
-
-
