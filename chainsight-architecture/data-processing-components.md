@@ -21,8 +21,9 @@ By offering a structured architecture for managing data from various blockchains
 
 The following articles also do a deep dive into the components.
 
-https://chainsight.network/blog/look-into-snapshot-indexer
-https://chainsight.network/blog/look-into-relayer
+{% embed url="https://chainsight.network/blog/look-into-snapshot-indexer" %}
+
+{% embed url="https://chainsight.network/blog/look-into-relayer" %}
 
 ### How to Deploy an Indexer
 
