@@ -28,3 +28,5 @@
 * [Landing Page](https://chainsight.network/)
 * [Early Access Application](https://forms.gle/dUMXyFG196pPXvWi7)
 * [GitHub](https://github.com/horizonx-tech)
+* [X - Chainsight](https://x.com/Chainsight_)
+* [Medium](https://medium.com/@Chainsight_Network)
