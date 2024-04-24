@@ -39,3 +39,11 @@ The Chainsight UI allows you to view and check the data deployed on Chainsight. 
 By specifying any data source from the UI, you can deploy the data you need on Chainsight. The UI is currently only available to Early Access Users; if you want to try, please apply for Early Access Users from [here](https://twitter.com/Chainsight\_/status/1767584718567133363).
 
 You can also deploy more complex data logic using the Chainsight CLI. Please see the [README](https://github.com/horizonx-tech/chainsight-cli) for details.
+
+***
+
+Please follow us below and wait for more updates!
+
+Early Access: [https://forms.gle/hEkeUZfNMgsubQvt6](https://forms.gle/hEkeUZfNMgsubQvt6)
+
+X Account: [https://twitter.com/Chainsight\_](https://twitter.com/Chainsight\_)
