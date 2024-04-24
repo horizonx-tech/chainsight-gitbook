@@ -1,38 +1,41 @@
 ---
-description: Composable Oracle Network
+description: On-chain data hub for on-chain apps
 ---
 
 # Introduction
 
-Welcome to Chainsight — New Standard of Data Service Platform
+Welcome to Chainsight - an on-chain data hub that can be integrated with smart contracts.
 
-### Chainsight Overview
+### Various data can now be accessed from smart contracts
 
-Chainsight indexes or computes data from any source, stores it, and makes it propagatable across any network.
-Chainsight provides a data platform that allows Web2/Web3 users to work with any cross-chain/real-world data.
+<figure><img src=".gitbook/assets/Screenshot 2024-04-24 at 18.43.17.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/Screenshot 2023-08-16 at 16.22.58.png" alt=""><figcaption><p>Overall Picture</p></figcaption></figure>
+Chainsight allows you to access various data from your smart contracts, such as volatility based on historical data, RWA price feeds, and a customizable crypto market index (Chainsight20). These data can be accessed from any blockchain, and with the Chainsight CLI, you can index any data you need yourself. Please contact our [X account](https://twitter.com/Chainsight\_) if you need any help.
 
-### For Developers
 
-With Chainsight, you can easily and securely prepare any necessary data, including economic indicators and price data for on-chain applications; deploy Data Indexer and Open Logic components in Chainsight, and make Optimistic Data Data Indexer and open logic components can be deployed in Chainsight to make the necessary data available to Optimistic Data Oracles. These Oracles can be deployed in various chains and data can be synchronized.
 
-### For Data Analysts
+### Cost-effective due to Data LEGO
 
-Chainsight allows you to collect the data you need from any chain. Analysts can acquire and analyze data as they wish by expressing the analyst's own logic, advanced analytical data such as volatilities and risk calculations can be seen in Chainsight. The collected data can be viewed in a dashboard and displayed as time-series graphs.
+<figure><img src=".gitbook/assets/Screenshot 2024-04-24 at 21.17.09.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/Screenshot 2023-08-16 at 16.11.18.png" alt=""><figcaption><p>Realized Volatility Chart</p></figcaption></figure>
+Let's first assume that the green components are deployed on Chainsight: the Daily Volatility Calculator is used to calculate volatility based on historical data for the three Stablecoins. After scoring this through a separate logic for Rating, your smart contract can use this result.&#x20;
 
-### For Trader
+If you want to create a different Rating based on the Volatility information, you can rebuild it using a separate blue component (Rating B). The green component can be reused. Similarly, if you want to change the definition of Volatility, you can add red components (Monthly Volatility Calculator & Rating C). If someone else has registered the data you need, you can just reuse it.
 
-Chainsight allows you to build automated trading or asset management strategies that get executed directly on any chain you choose. Choose your intervals, assets, and even build out entire models to monitor market conditions all in one data pipeline.
 
----
 
-You want to learn
+### Custom Dashboard to view your data
 
-\>> [Why we build Chainsight](chainsight-overview/motivation.md)
+<figure><img src=".gitbook/assets/Screenshot 2024-04-24 at 21.50.14.png" alt=""><figcaption></figcaption></figure>
 
-\>> [Architecture](chainsight-architecture/system-outline.md)
+The Chainsight UI allows you to view and check the data deployed on Chainsight. The panels for viewing data are customizable, allowing you to add any information you wish to your own dashboard.
 
-\>> [Use Cases](use-cases/exploring-chainsights-potential/)
+
+
+### Easy steps to create new data
+
+<figure><img src=".gitbook/assets/Screenshot 2024-04-24 at 21.56.50.png" alt=""><figcaption></figcaption></figure>
+
+By specifying any data source from the UI, you can deploy the data you need on Chainsight. The UI is currently only available to Early Access Users; if you want to try, please apply for Early Access Users from [here](https://twitter.com/Chainsight\_/status/1767584718567133363).
+
+You can also deploy more complex data logic using the Chainsight CLI. Please see the [README](https://github.com/horizonx-tech/chainsight-cli) for details.
