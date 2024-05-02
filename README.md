@@ -22,7 +22,7 @@ Quantitative analysis of stablecoins from on-chain data that is updated daily. F
 
 These rating results are available from on-chain apps, which means you can write dynamic logic based on the rating information.
 
-Academic paper: [Link](https://drive.google.com/file/d/1xuwyY9KmAGaTYNmlqvk27XNsZAINe04A/view?usp=sharing)&#x20;
+Academic paper: [Link](https://drive.google.com/file/d/1vNBIknDYRCP6sRK70oMKjcToJe\_0UGL8/view?usp=sharing)&#x20;
 
 
 
