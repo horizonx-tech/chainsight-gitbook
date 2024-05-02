@@ -6,7 +6,7 @@
 * [Motivation](chainsight-overview/motivation.md)
 * [FAQ](chainsight-overview/faq.md)
 * [Paper: Information Disclosure](https://drive.google.com/file/d/1ThJPoh\_yjyTWJz3Tgcv1wbKMjQ\_YyMX3/view?usp=sharing)
-* [Paper: Rating Stablecoins](https://drive.google.com/file/d/1xuwyY9KmAGaTYNmlqvk27XNsZAINe04A/view?usp=sharing)
+* [Paper: Rating Stablecoins](https://drive.google.com/file/d/1vNBIknDYRCP6sRK70oMKjcToJe\_0UGL8/view)
 
 ## Chainsight Architecture
 
