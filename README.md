@@ -1,5 +1,5 @@
 ---
-description: On-chain data hub for on-chain apps
+description: Indexes on-chain data and makes it widely available
 ---
 
 # Introduction
