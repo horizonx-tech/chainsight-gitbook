@@ -14,6 +14,18 @@ Chainsight allows you to access various data from your smart contracts, such as 
 
 
 
+### Stablecoin Rating
+
+Quantitative analysis of stablecoins from on-chain data that is updated daily. For example, it evaluates six indicators as time-series data, including how close it moves from $1, how quickly it recovers when it deviates from $1, and the degree to which a user is a price taker.
+
+<figure><img src=".gitbook/assets/Screenshot 2024-05-01 at 15.22.12.png" alt=""><figcaption></figcaption></figure>
+
+These rating results are available from on-chain apps, which means you can write dynamic logic based on the rating information.
+
+Academic paper: [https://drive.google.com/file/d/1xuwyY9KmAGaTYNmlqvk27XNsZAINe04A/view?usp=sharing](https://drive.google.com/file/d/1xuwyY9KmAGaTYNmlqvk27XNsZAINe04A/view?usp=sharing)
+
+
+
 ### Cost-effective due to Data LEGO
 
 <figure><img src=".gitbook/assets/Screenshot 2024-04-24 at 21.17.09.png" alt=""><figcaption></figcaption></figure>
@@ -39,6 +51,8 @@ The Chainsight UI allows you to view and check the data deployed on Chainsight. 
 By specifying any data source from the UI, you can deploy the data you need on Chainsight. The UI is currently only available to Early Access Users; if you want to try, please apply for Early Access Users from [here](https://twitter.com/Chainsight\_/status/1767584718567133363).
 
 You can also deploy more complex data logic using the Chainsight CLI. Please see the [README](https://github.com/horizonx-tech/chainsight-cli) for details.
+
+
 
 ***
 
