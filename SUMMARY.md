@@ -4,9 +4,11 @@
 
 * [Introduction](README.md)
 * [Motivation](chainsight-overview/motivation.md)
+* [How to use Chainsight?](chainsight-overview/how-to-use-chainsight.md)
+* [Official Document](chainsight-overview/official-document.md)
 * [FAQ](chainsight-overview/faq.md)
-* [Paper: Information Disclosure](https://drive.google.com/file/d/1ThJPoh\_yjyTWJz3Tgcv1wbKMjQ\_YyMX3/view?usp=sharing)
-* [Paper: Rating Stablecoins](https://drive.google.com/file/d/1vNBIknDYRCP6sRK70oMKjcToJe\_0UGL8/view)
+* [Introduction\_](<README (1).md>)
+* [Motivation\_](chainsight-overview/motivation-1.md)
 
 ## Chainsight Architecture
 
@@ -27,5 +29,4 @@
 ## Project Links
 
 * [Landing Page](https://chainsight.network/)
-* [Early Access Application](https://forms.gle/dUMXyFG196pPXvWi7)
 * [GitHub](https://github.com/horizonx-tech)

@@ -4,9 +4,22 @@ description: How Chainsight is structured
 
 # System Outline
 
-Chainsight is based on Internet Computer's [Chain-key Cryptography](https://support.dfinity.org/hc/en-us/articles/360057605551-What-is-chain-key-cryptography-). This allows data to be kept in sync with any L1/ L2 in a trustless manner. Data is first indexed into the storage of canister smart contracts running on top of Internet Computer, and by connecting each canister smart contract like Lego blocks, even more complex data can be handled at low cost. The overall picture of Chainsight is as follows:
+The Chainsight architecture can be summarized as follows:
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-08-16 at 16.56.33.png" alt=""><figcaption><p>Chainsight Architecture</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/docs5.png" alt=""><figcaption></figcaption></figure>
 
-Components deployed by developers using the CLI or UI run on Internet Computer as Composable Data Oracles. Apart from these, Chainsight Management Canisters have been deployed to control the entire network, and incentives for data providers and alerts for corrupt data will be implemented in the future milestone.
+### Data Source Verification
 
+When retrieving data, the canister makes 13 HTTP calls to ensure its accuracy before indexing it on-chain.
+
+### Updating Smart Contracts without Off-Chain Bridges
+
+Chainsight is built on Internet Computer's [Chain-key Cryptography](https://support.dfinity.org/hc/en-us/articles/360057605551-What-is-chain-key-cryptography-), enabling data synchronization with any L1/L2 in a trustless manner.
+
+### Cost-Efficiency through Composability
+
+Data is initially indexed into the storage of canister smart contracts on the Internet Computer. These canister smart contracts are then connected like Lego blocks, allowing for the handling of more complex data at a low cost. Components deployed by developers using the CLI or UI run on the Internet Computer as Composable Data Oracles.
+
+
+
+In addition, Chainsight has deployed Management Canisters to oversee the entire network. Incentives for data providers and mechanisms to identify corrupt data will be implemented in future milestones.
