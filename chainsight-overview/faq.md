@@ -4,10 +4,6 @@ description: Frequently Asked Questions
 
 # FAQ
 
-{% hint style="warning" %}
-Please note that since Chainsight is still under development, specifications may change before the official release.
-{% endhint %}
-
 ### Q. What is Chainsight in a nutshell?
 
 Chainsight is a cutting-edge on-chain data hub that consolidates data from various markets and provides on-chain accessibility. Learn how to utilize Chainsight [here](https://app.gitbook.com/o/tWKF1BS3PbvW5VBUezX7/s/TVspkMrYiJzUvsCmQwk0/\~/changes/77/chainsight-overview/how-to-use-chainsight).
@@ -22,7 +18,7 @@ A list of supported networks can be found [here](https://github.com/horizonx-tec
 
 ### Q. Is Chainsight a bridge?
 
-No, data is written directly from Chainsight via [DKG](https://eprint.iacr.org/2021/339) and [tECDSA](https://internetcomputer.org/docs/current/developer-docs/integrations/t-ecdsa) to oracles deployed on each EVM network.
+No, data is written directly from Chainsight via [DKG](https://eprint.iacr.org/2021/339) and [Chainkey Cryptography](https://support.dfinity.org/hc/en-us/articles/360057605551-What-is-chain-key-cryptography) to oracles deployed on each EVM network.
 
 ### Q. Is Chainsight built on an original layer1 or such?
 
