@@ -7,8 +7,6 @@
 * [How to use Chainsight?](chainsight-overview/how-to-use-chainsight.md)
 * [Official Document](chainsight-overview/official-document.md)
 * [FAQ](chainsight-overview/faq.md)
-* [Introduction\_](<README (1).md>)
-* [Motivation\_](chainsight-overview/motivation-1.md)
 
 ## Chainsight Architecture
 

@@ -4,7 +4,7 @@
 
 Chainsight is an advanced on-chain data hub that aggregates data from various markets and makes it accessible on-chain. Any data can be accessed from smart contracts, including data that can be retrieved from HTTPS endpoints on the web, results calculated from huge amounts of data, and states from other chains.
 
-→ [Motivation](chainsight-overview/motivation-1.md)
+→ [Motivation](chainsight-overview/motivation.md)
 
 → [How to use Chainsight?](https://app.gitbook.com/o/tWKF1BS3PbvW5VBUezX7/s/TVspkMrYiJzUvsCmQwk0/\~/changes/77/chainsight-overview/how-to-use-chainsight)
 
@@ -27,4 +27,3 @@ The Chainsight UI enables users to access data indexed in Chainsight via a custo
 Chainsight is a network consisting of a large number of indexers. Each individual indexer has its own data, which can be combined to efficiently build new data. This new data can be written directly to blockchains, such as Ethereum, eliminating the need for off-chain bridges. This allows on-chain applications to utilize the data they need.
 
 \-> [Architecture](chainsight-architecture/system-outline.md)
-
