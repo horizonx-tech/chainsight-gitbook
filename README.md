@@ -6,7 +6,7 @@ Chainsight is an advanced on-chain data hub that aggregates data from various ma
 
 → [Motivation](chainsight-overview/motivation.md)
 
-→ [How to use Chainsight?](https://app.gitbook.com/o/tWKF1BS3PbvW5VBUezX7/s/TVspkMrYiJzUvsCmQwk0/\~/changes/77/chainsight-overview/how-to-use-chainsight)
+→ [How to use Chainsight?](chainsight-overview/how-to-use-chainsight.md)
 
 → [FAQ](chainsight-overview/faq.md)
 
