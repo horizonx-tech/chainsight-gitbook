@@ -1,3 +1,2 @@
 # Volatility / Ratings
 
-Updating now...
