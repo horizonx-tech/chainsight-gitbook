@@ -13,10 +13,11 @@
 * [Price Feed](chainsight-oracle/price-feed.md)
 * [Volatility / Ratings](chainsight-oracle/volatility-ratings.md)
 * [RWA](chainsight-oracle/rwa.md)
+* [DeFi Activities](chainsight-oracle/defi-activities.md)
 
 ## Chainsight App
 
-* [Dashboard](chainsight-app/dashboard.md)
+* [Dashboard for Analysis](chainsight-app/dashboard-for-analysis.md)
 * [Factory](chainsight-app/factory.md)
 
 ## Chainsight Architecture
