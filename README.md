@@ -16,7 +16,7 @@ Chainsight is an advanced on-chain data hub that aggregates data from various ma
 
 The Chainsight UI enables users to access data indexed in Chainsight via a customizable dashboard. Users can select specific charts to display their data and create a personalized dashboard with their preferred layout. This allows users to view and analyze exclusive data available only through Chainsight, including unique indexes and rating information.
 
-\-> [Product](https://app.chainsight.network/)
+\-> [Product](https://app.chainsight.network/) (app.chainsight.network)
 
 \-> Available Data List (Coming Soon)
 

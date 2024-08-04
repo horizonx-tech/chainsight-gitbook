@@ -8,21 +8,31 @@
 * [Official Document](chainsight-overview/official-document.md)
 * [FAQ](chainsight-overview/faq.md)
 
+## Chainsight Oracle
+
+* [Price Feed](chainsight-oracle/price-feed.md)
+* [Volatility / Ratings](chainsight-oracle/volatility-ratings.md)
+* [RWA](chainsight-oracle/rwa.md)
+
+## Chainsight App
+
+* [Dashboard](chainsight-app/dashboard.md)
+* [Factory](chainsight-app/factory.md)
+
 ## Chainsight Architecture
 
-* [System Outline](chainsight-architecture/system-outline.md)
+* [Overview](chainsight-architecture/system-outline.md)
 * [On-Chain Data Flow](chainsight-architecture/on-chain-data-flow.md)
 * [Data Processing Components](chainsight-architecture/data-processing-components.md)
 * [Optimistic Data Oracles](chainsight-architecture/optimistic-data-oracles.md)
 * [Chainsight CLI](chainsight-architecture/chainsight-cli.md)
 
-## Use Cases
+## How To Build Pipelines
 
-* [Exploring Chainsight's Potential](use-cases/exploring-chainsights-potential/README.md)
-  * [Demo1: Decentralization Assessment](use-cases/exploring-chainsights-potential/demo1-decentralization-assessment.md)
-  * [Demo2: Volatility Oracles](use-cases/exploring-chainsights-potential/demo2-volatility-oracles.md)
-  * [Demo3: Cross-Chain Lending](use-cases/exploring-chainsights-potential/demo3-cross-chain-lending.md)
-  * [Demo4: Malicious Address Tracker](use-cases/exploring-chainsights-potential/demo4-malicious-address-tracker.md)
+* [Demo1: Decentralization Assessment](how-to-build-pipelines/demo1-decentralization-assessment.md)
+* [Demo2: Volatility Oracles](how-to-build-pipelines/demo2-volatility-oracles.md)
+* [Demo3: Cross-Chain Lending](how-to-build-pipelines/demo3-cross-chain-lending.md)
+* [Demo4: Malicious Address Tracker](how-to-build-pipelines/demo4-malicious-address-tracker.md)
 
 ## Project Links
 

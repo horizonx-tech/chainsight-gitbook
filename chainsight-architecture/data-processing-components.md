@@ -17,7 +17,7 @@ In contrast to the Indexer, the Algorithm Lens and Relayer do not store the stat
 * **Algorithm Lens** - Retrieves existing data from the Indexer using custom logic, enabling the extraction of specific calculation results or desired synthesized values. For instance, an Algorithm Lens calculates an economic index that evaluates decentralization based on the percentage of token holders.
 * **Relayer** - Transfers data to other blockchains using threshold signing schemes like tECDSA. The destination is a data oracle pre-deployed on the target blockchain, which is synchronized in a key-value format at predefined intervals.
 
-By offering a structured architecture for managing data from various blockchains, Chainsight simplifies the process for developers to access and utilize essential on-chain data in their applications. To explore use cases on how to combine these components, please click [here](../use-cases/exploring-chainsights-potential/demo1-decentralization-assessment.md).
+By offering a structured architecture for managing data from various blockchains, Chainsight simplifies the process for developers to access and utilize essential on-chain data in their applications. To explore use cases on how to combine these components, please click [here](../how-to-build-pipelines/demo1-decentralization-assessment.md).
 
 ### How to Deploy an Indexer
 
