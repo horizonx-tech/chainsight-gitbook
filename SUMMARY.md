@@ -10,15 +10,17 @@
 
 ## Chainsight Oracle
 
+* [What is Chainsight Oracle?](chainsight-oracle/what-is-chainsight-oracle.md)
 * [Price Feed](chainsight-oracle/price-feed.md)
-* [Volatility / Ratings](chainsight-oracle/volatility-ratings.md)
 * [RWA](chainsight-oracle/rwa.md)
-* [DeFi Activities](chainsight-oracle/defi-activities.md)
+* [Volatility / Ratings](chainsight-oracle/volatility-ratings.md)
+* [Index](chainsight-oracle/index.md)
+* [DeFi / On-chain Activities](chainsight-oracle/defi-on-chain-activities.md)
 
-## Chainsight App
+## Chainsight UI
 
-* [Dashboard for Analysis](chainsight-app/dashboard-for-analysis.md)
-* [Factory](chainsight-app/factory.md)
+* [Dashboard for Analysis](chainsight-ui/dashboard-for-analysis.md)
+* [Factory](chainsight-ui/factory.md)
 
 ## Chainsight Architecture
 

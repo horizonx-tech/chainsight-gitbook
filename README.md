@@ -8,6 +8,8 @@ Chainsight is an advanced on-chain data hub that aggregates data from various ma
 
 → [How to use Chainsight?](chainsight-overview/how-to-use-chainsight.md)
 
+\-> What is Chainsight Oracle?
+
 → [FAQ](chainsight-overview/faq.md)
 
 
@@ -18,7 +20,7 @@ The Chainsight UI enables users to access data indexed in Chainsight via a custo
 
 \-> [Product](https://app.chainsight.network/) (app.chainsight.network)
 
-\-> Available Data List (Coming Soon)
+\-> Docs: Chainsight UI (Coming Soon)
 
 
 

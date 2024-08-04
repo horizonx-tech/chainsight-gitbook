@@ -6,9 +6,11 @@ Chainsight can be utilized in several ways, depending on the user's objectives. 
 
 1.  Tailored Oracle Service
 
-    If you need a customized Oracle, please contact the Chainsight team via X or Telegram. We are flexible with any request, and our indexing network will provide it at a lower cost.
+    If you need a customized Oracle, please contact the Chainsight team via X / Telegram, or submit the form from the link below. We are flexible with any request, and our indexing network will provide it at a lower cost.
 
-    [https://x.com/chainsight\_](https://x.com/chainsight\_)
+    [https://forms.gle/yowZtEtCxXs8g2xDA](https://forms.gle/yowZtEtCxXs8g2xDA)
+
+    \-> What is Chainsight Oracle?
 2.  Factory UI
 
     If you want to add simple data to an indexer, synchronize that data to the EVM chain, and use the data from DApps, you can easily achieve this using the Factory UI. Note that the type and range of data that can be added are limited. Please wait as the scope of support is gradually being extended.
