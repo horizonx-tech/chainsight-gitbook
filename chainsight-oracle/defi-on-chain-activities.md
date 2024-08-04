@@ -1,3 +1,0 @@
-# DeFi Activities
-
-Updating now...

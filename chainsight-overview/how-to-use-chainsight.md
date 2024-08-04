@@ -10,7 +10,7 @@ Chainsight can be utilized in several ways, depending on the user's objectives. 
 
     [https://forms.gle/yowZtEtCxXs8g2xDA](https://forms.gle/yowZtEtCxXs8g2xDA)
 
-    \-> What is Chainsight Oracle?
+    \-> [What is Chainsight Oracle?](https://docs.chainsight.network/chainsight-oracle/what-is-chainsight-oracle)
 2.  Factory UI
 
     If you want to add simple data to an indexer, synchronize that data to the EVM chain, and use the data from DApps, you can easily achieve this using the Factory UI. Note that the type and range of data that can be added are limited. Please wait as the scope of support is gradually being extended.

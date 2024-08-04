@@ -8,7 +8,7 @@ Chainsight is an advanced on-chain data hub that aggregates data from various ma
 
 → [How to use Chainsight?](chainsight-overview/how-to-use-chainsight.md)
 
-\-> What is Chainsight Oracle?
+\-> [What is Chainsight Oracle?](https://docs.chainsight.network/chainsight-oracle/what-is-chainsight-oracle)
 
 → [FAQ](chainsight-overview/faq.md)
 

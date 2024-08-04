@@ -12,10 +12,8 @@
 
 * [What is Chainsight Oracle?](chainsight-oracle/what-is-chainsight-oracle.md)
 * [Price Feed](chainsight-oracle/price-feed.md)
-* [RWA](chainsight-oracle/rwa.md)
 * [Volatility / Ratings](chainsight-oracle/volatility-ratings.md)
-* [Index](chainsight-oracle/index.md)
-* [DeFi / On-chain Activities](chainsight-oracle/defi-on-chain-activities.md)
+* [RWA](chainsight-oracle/rwa.md)
 
 ## Chainsight UI
 
