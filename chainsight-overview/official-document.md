@@ -8,9 +8,11 @@ This is a summary of the potential data that can be stored in Chainsight, includ
 
 Paper: [Rating Stablecoins](https://drive.google.com/file/d/1Kf\_jQ4rbsh0NtY7zx8H4vPw\_iY6fLY1S/view?usp=sharing)
 
-Market caps are often used to evaluate the value of stablecoins. But does it really reflect the stability and role of the stablecoin? In this context, we have created six evaluation criteria and used specific examples to assess stablecoins from different perspectives, based solely on quantitative data.
+Market caps are often used to evaluate the value of stablecoins. But does it really reflect the stability and role of the stablecoin? In this context, we have created six evaluation criteria and used specific examples to assess stablecoins from different perspectives based solely on quantitative data.
 
+Paper: [Which altcoins should Bitcoiners have owned?](https://drive.google.com/file/d/1xm5QWC5xuQOccXayjvPuq7IlmAlRJFVH/view)
 
+We analyze coins that are suitable for holding in combination with Bitcoin from the perspective of portfolio management. We design a test to determine whether a coin is compatible with Bitcoin using a new evaluation score based on the Sharpe ratio.
 
 ### Medium
 
