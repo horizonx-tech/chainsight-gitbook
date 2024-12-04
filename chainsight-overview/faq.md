@@ -24,10 +24,10 @@ The current Web3 data environment faces many challenges, such as high costs, dec
 
 On Chainsight, you can access a wide variety of data, including:
 
-* **Data from Any Web Source**: Data obtained from APIs and websites.
-* **Time-Series Data Analysis Results**: Advanced analytics such as volatility, ratings, and trend indicators. e.g. [Stablecoin Rating](https://drive.google.com/file/d/1Kf_jQ4rbsh0NtY7zx8H4vPw_iY6fLY1S/view)
-* **State from Other Blockchains**: Cross-chain data retrieval.
-* **Custom Data Feeds**: Unique data feeds created and shared by users themselves.
+* **Data from Any Web Source:** Information obtained from any HTTPS endpoints, including long-tail asset prices, commodities (such as silver and oil), and indices like the S\&P 500.
+* **Time-Series Data Analysis Results:** Advanced analytics that include measurements of volatility, ratings, and trend indicators, such as [Stablecoin Ratings](https://drive.google.com/file/d/1Kf_jQ4rbsh0NtY7zx8H4vPw_iY6fLY1S/view).
+* **State from Other Blockchains:** Retrieval of data across different blockchains.
+* **Custom Data Feeds:** Unique data feeds created and shared by users, including examples like Time-Weighted Average Price (TWAP) and aggregated prices.
 
 ### Q. Which networks does Chainsight support? Only EVMs?
 
@@ -37,19 +37,19 @@ Chainsight supports various blockchain networks, focusing primarily on EVM (Ethe
 
 Chainsight differs from traditional oracle providers in the following ways:
 
-* **User-Driven Data Acquisition**: Users can obtain and manage the data they need without relying on specific oracles.
-* **Advanced Data Analytics**: We provide on-chain time-series data analysis results such as volatility and ratings.
-* **Security and Verifiability**: By leveraging advanced cryptographic technologies like Chain-Key cryptography and zkTLS, we ensure the authenticity and security of data.
-* **Modular Data Tools**: Customize your data pipelines using Data LEGOs and modular tools.
-* **Data Monetization**: Data providers can receive incentives, which will be implemented later.
+* **User-Driven Data Acquisition:** Users can access and manage the data they need without depending on specific oracles.
+* **Advanced Data Analytics:** We offer on-chain time-series data analysis results, including metrics like volatility and ratings.
+* **Security and Verifiability:** By utilizing advanced cryptographic technologies such as Chain-Key cryptography and zkTLS, we ensure the authenticity and security of the data.
+* **Modular Data Tools:** Customize your data pipelines using flexible, modular tools akin to LEGO blocks for data.
+* **Data Monetization:** Data providers can earn incentives, with further details to be announced later.
 
 ### Q. Why is it safe to access? How to verify that?
 
-Chainsight uses advanced cryptographic technologies like Chain-Key cryptography and zkTLS to ensure the safety and authenticity of data. This allows us to cryptographically prove that data has not been tampered with. Users can verify data on-chain and confirm its reliability and integrity.
+Chainsight utilizes advanced cryptographic technologies, such as Chain-Key cryptography and zkTLS, to ensure data safety and authenticity. These technologies enable us to cryptographically verify that data has not been altered. Users can easily check the data on-chain and confirm its reliability and integrity through the user interface when needed.
 
 ### Q. We can’t find the data that I want. How can I create that?
 
-With Chainsight's Factory function, you can independently obtain data from any source and deploy it on-chain. The Factory UI makes it easy to set up data acquisition and deployment. You also have the ability to share the data feeds you create with the community, enabling other users to utilize them and earn incentives in the future.&#x20;
+If you are unable to find the data you need, you can create it using Chainsight's Factory function. This feature allows you to independently source and deploy data on-chain. The Factory user interface simplifies the process of setting up data acquisition and deployment. Additionally, you can share the data feeds you create with the community, allowing other users to utilize them and earn incentives.
 
 ### Q. Does Chainsight issue tokens?
 
