@@ -32,4 +32,4 @@ The Chainsight UI enables users to access data indexed in Chainsight via a custo
 
 Chainsight is a network consisting of a large number of indexers. Each individual indexer has its own data, which can be combined to efficiently build new data. This new data can be written directly to blockchains, such as Ethereum, eliminating the need for off-chain bridges. This allows on-chain applications to utilize the data they need.
 
--> [Architecture](chainsight-architecture/system-outline.md)
+-> [Architecture](chainsight-network/system-outline.md)

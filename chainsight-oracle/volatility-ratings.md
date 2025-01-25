@@ -1,6 +1,6 @@
 # Volatility / Ratings
 
-Chainsight Oracle offers advanced volatility and rating indicators based on historical asset price data and related information. These metrics provide valuable insights for DeFi protocols, enabling more sophisticated risk management and decision-making processes.
+Chainsight offers advanced volatility and rating indicators based on historical asset price data and related information. These metrics provide valuable insights for DeFi protocols, enabling more sophisticated risk management and decision-making processes.
 
 ### Benefits of Using Volatility and Ratings Data
 
