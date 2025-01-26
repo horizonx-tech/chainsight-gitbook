@@ -2,7 +2,11 @@
 
 <figure><img src=".gitbook/assets/zqZJbIhX.jpeg" alt=""><figcaption></figcaption></figure>
 
-Chainsight is a next-generation platform that enables you to bring any data onto the blockchain safely and easily. By utilizing advanced technologies such as Chain-Key cryptography and zkTLS, we ensure the authenticity and security of the data. Users can access data from any source on the web to build, manage, and monetize their own data solutions. Chainsight offers a comprehensive data solution that goes beyond being just an oracle provider.
+Chainsight is a next-generation data infrastructure that empowers anyone to bring external data onto blockchain networks securely and flexibly. By leveraging advanced technologies (such as **Chain-Key** cryptography and optional **zkTLS**), Chainsight ensures both the **integrity** and **reliability** of data feeds. Rather than being “just another oracle,” Chainsight provides a **full data pipeline** solution—from indexing data to deploying oracles—enabling sophisticated use cases far beyond typical price feeds.
+
+{% hint style="warning" %}
+We’ve set up a new environment **restricted to partners and early-access users**. If you’d like to try the new features before the public launch, please **contact us** on social or at contact@chainsight.network. The official release of the **Data Pipeline Builder** and broader Portal is planned for **January 2025**, at which time data validation using zkTLS will also be introduced.
+{% endhint %}
 
 → [Motivation](chainsight-overview/motivation.md)
 
@@ -11,10 +15,6 @@ Chainsight is a next-generation platform that enables you to bring any data onto
 -> [What is Chainsight Oracle?](https://docs.chainsight.network/chainsight-oracle/what-is-chainsight-oracle)
 
 → [FAQ](chainsight-overview/faq.md)
-
-{% hint style="warning" %}
-The Factory function, which enables users to freely register data from the user interface (UI), is currently only available in the Preview version. The official release of the Factory UI is scheduled for January 2025. At that time, data validation using zkTLS will also be introduced. For further details, please refer to the X announcement.
-{% endhint %}
 
 
 

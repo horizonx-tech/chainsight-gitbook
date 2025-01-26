@@ -34,6 +34,8 @@ function readAsUint256WithTimestamp(address sender, bytes32 key)
 
 **In short,** developers can read the most up-to-date on-chain data by calling `readAsUint256ByKey(sender, key)`, receiving the integer plus a timestamp.
 
+{% embed url="https://github.com/horizonx-tech/chainsight-management-oracle" %}
+
 ### Writing Data to Each Chain
 
 Internally, **chainsight** uses a distributed node approach with threshold ECDSA based on the chain-key cryptography:
