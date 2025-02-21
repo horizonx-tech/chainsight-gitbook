@@ -4,6 +4,8 @@ description: Why Chainsight Is Cheaper and More Flexible
 
 # Overview
 
+<figure><img src="../.gitbook/assets/Screenshot 2025-02-21 at 16.00.34.png" alt=""><figcaption></figcaption></figure>
+
 ### **Network Effect for Reusing Indexed Data**
 
 Chainsight indexes the data once, allowing multiple projects to reuse it. For example, if one project sets up a particular price feed, any other user can tap into the same feed with minimal overhead. As more data sets and users appear, the administrative cost per project **drops**, unlike a typical “1:1 oracle feed” scenario.
