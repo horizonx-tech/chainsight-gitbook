@@ -11,11 +11,11 @@
 ## Chainsight Oracle
 
 * [Overview](chainsight-oracle/overview.md)
-* [Oracle Contract](chainsight-oracle/oracle-contract.md)
-* [Data Indexing Methods](chainsight-oracle/data-indexing-methods.md)
-* [Time-Series Data Retention](chainsight-oracle/time-series-data-retention.md)
+* [Data Source](chainsight-oracle/data-source.md)
+* [Base Indexer](chainsight-oracle/base-indexer.md)
+* [Advanced Indexer](chainsight-oracle/advanced-indexer.md)
 * [Relayer](chainsight-oracle/relayer.md)
-* [Volatility / Ratings](chainsight-oracle/volatility-ratings.md)
+* [Oracle Contract](chainsight-oracle/oracle-contract.md)
 
 ## Chainsight Portal
 

@@ -1,0 +1,18 @@
+# Base Indexer
+
+The Base Indexer is responsible for fetching data from the Data Source and indexing it on-chain. It acts on the endpoints configured in the previous step, pulling in fresh data at specified intervals or triggers. Chainsight supports multiple ingestion strategies for the Base Indexer, allowing a balance between cost, speed, and trust:
+
+* **Cost-Friendly Backend Ingestion:** Chainsight’s internal nodes fetch the data from the source API and directly push it into the on-chain indexer. This approach is simple and has minimal overhead, making it cheaper and faster for frequent updates. _Pros:_ very low cost and quick to set up – ideal if you trust the data source or aggregator. _Cons:_ lacks advanced cryptographic proof of authenticity, so it’s best used when cost is the primary concern and the data source is trusted​.
+* **zkTLS-Based Ingestion:** In this method, an external cryptographic service/provider fetches the data and produces a **zero-knowledge proof** (zkTLS) that the data came from the authentic source over TLS. The Base Indexer then ingests the data along with this proof. _Pros:_ offers high data integrity – the zero-knowledge proof ensures the data hasn’t been tampered with even though the fetch happened off-chain. _Cons:_ slightly higher overhead and a potentially smaller range of supported sources (depending on the proof provider). This method is perfect for real-time data (like pricing) that require strong authenticity guarantees.
+* **Distributed HTTPS Outcalls (Consensus):** Here, a group of distributed Chainsight nodes each call the same HTTPS endpoint and then reach consensus on the result. If a majority (or a threshold quorum) of nodes agree on the data, that value is accepted and stored. _Pros:_ no reliance on a single node or aggregator – this provides trust through decentralization (no single point of failure) and is great for public APIs or widely used data. _Cons:_ it incurs a bit more latency (nodes must communicate and agree), so updates are a few seconds slower than a direct push. This trade-off is worth it for scenarios where you want to eliminate trust in any one source​.
+
+After retrieval, the Base Indexer stores time-series data on-chain. It doesn’t just keep the latest value; it retains historical snapshots in an optimized way. The retention policy is:
+
+1. **Minute-by-Minute for the First Hour:** Every minute for the first 60 minutes, the indexer records a data point​. (Total of 60 points in the first hour).
+2. **Hourly Aggregation:** After 1 hour, the system compresses those 60 minute-level points into 1 hourly snapshot. Each hour yields one data point (24 points per day)​.
+3. **Daily Aggregation:** After 24 hours, the indexer consolidates the 24 hourly points into a single daily point. Over a week you’d have 7 daily points, and so on​.
+4. **90-Day Retention:** The daily data is kept for up to 90 days. Data older than 90 days is discarded (unless extended storage is configured)​.
+
+This tiered time-series storage means recent data is very granular (minute-level for the last hour), and older data is stored in summarized form (hourly, then daily), balancing detail and storage efficiency.
+
+_Implications:_ For DeFi projects and analytics, this on-chain history is extremely powerful. You can pull historical data easily – from minute-by-minute recent data to daily aggregates going back \~90 days – all from the oracle itself​. This “historical on-chain ledger” of data enables advanced analyses (like calculating volatility or trends) directly in smart contracts or on-chain queries, without needing an off-chain database. Such built-in historical depth is uncommon among decentralized oracles and opens the door to richer DeFi logic and on-chain analytics.
