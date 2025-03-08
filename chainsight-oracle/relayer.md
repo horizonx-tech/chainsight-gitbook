@@ -18,9 +18,9 @@ The effect of such a filter is that during periods of high volatility, updates h
 
 
 
-#### **Bug Rate Filter**&#x20;
+#### Outlier **Filter**&#x20;
 
-In addition to deviation thresholds, you can insert custom logic to filter out abnormal or spurious data updates. A "bug rate" filter is a concept where the Relayer checks data quality or consistency before pushing an update. For instance, if the incoming data has too many anomalies or errors in a short span, the Relayer might skip or delay updates until the data stabilizes. This prevents propagating faulty data on-chain. Here’s a simple example in Rust of a filter that drops outlier values:
+In addition to deviation thresholds, you can insert custom logic to filter out abnormal or spurious data updates. An outlier filter is a concept where the Relayer checks data quality or consistency before pushing an update. For instance, if the incoming data can be considered an outlier compared to the most recent data, the Relayer might skip or delay updates until the data stabilizes. This prevents propagating faulty data on-chain. Here’s a simple example in Rust of a filter that drops outlier values:
 
 ```rust
 fn should_update(new_value: f64, historical: &[f64], k: f64) -> bool {
