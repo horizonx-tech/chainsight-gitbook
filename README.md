@@ -5,7 +5,7 @@
 Chainsight is a next-generation data infrastructure that empowers anyone to bring external data onto blockchain networks securely and flexibly. By leveraging advanced technologies (such as **Chain-Key** cryptography and optional **zkTLS**), Chainsight ensures both the **integrity** and **reliability** of data feeds. Rather than being “just another oracle,” Chainsight provides a **full data pipeline** solution—from indexing data to deploying oracles—enabling sophisticated use cases far beyond typical price feeds.
 
 {% hint style="warning" %}
-We’ve set up a new environment **restricted to partners and early-access users**. If you’d like to try the new features before the public launch, please **contact us** on social or at contact@chainsight.network. The official release of the **Data Pipeline Builder** and broader Portal is planned for **January 2025**, at which time data validation using zkTLS will also be introduced.
+We’ve set up a new environment **restricted to partners and early-access users**. If you’d like to try the new features before the public launch, please **contact us** on social or at contact@chainsight.network.&#x20;
 {% endhint %}
 
 → [Motivation](chainsight-overview/motivation.md)
