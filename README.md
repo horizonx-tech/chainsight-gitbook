@@ -1,6 +1,6 @@
 # Introduction
 
-<figure><img src=".gitbook/assets/zqZJbIhX.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/IMG_9961.png" alt=""><figcaption></figcaption></figure>
 
 Chainsight is a next-generation data infrastructure that empowers anyone to bring external data onto blockchain networks securely and flexibly. By leveraging advanced technologies (such as **Chain-Key** cryptography and optional **zkTLS**), Chainsight ensures both the **integrity** and **reliability** of data feeds. Rather than being “just another oracle,” Chainsight provides a **full data pipeline** solution—from indexing data to deploying oracles—enabling sophisticated use cases far beyond typical price feeds.
 
