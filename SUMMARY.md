@@ -16,6 +16,7 @@
 * [Advanced Indexer](chainsight-oracle/advanced-indexer.md)
 * [Relayer](chainsight-oracle/relayer.md)
 * [Oracle Contract](chainsight-oracle/oracle-contract.md)
+* [Multi-Source Aggregated Oracle](chainsight-oracle/multi-source-aggregated-oracle.md)
 
 ## Chainsight Portal
 
