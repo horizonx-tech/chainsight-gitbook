@@ -4,9 +4,7 @@
 This is currently under code audit. We will release the source code as soon as the audit is finished.
 {% endhint %}
 
-
-
-<figure><img src="../.gitbook/assets/Frame 48096605.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Frame 48096605 (1).png" alt=""><figcaption></figcaption></figure>
 
 The **Multi-Source Oracle** is one of the features that ChainSight provides on-chain data. It combines price feeds and data points from multiple premier oracle networks into a single, unified source of truth. Instead of relying on one oracle provider, this solution pulls data from **Chainlink**, **Pyth**, and **ChainSight’s own data feeds**, then aggregates them on-chain. By leveraging several sources, the Multi-Source Oracle delivers more reliable and robust data to decentralized applications. Developers and protocols can now access a consolidated feed that automatically balances inputs and filters out anomalies, all through a **single smart contract interface**. This introduction of a multi-source approach marks a significant step forward in ensuring data accuracy and uptime for Web3 projects.
 
