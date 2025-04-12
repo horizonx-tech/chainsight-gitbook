@@ -6,6 +6,7 @@
 * [Motivation](chainsight-overview/motivation.md)
 * [How to use Chainsight?](chainsight-overview/how-to-use-chainsight.md)
 * [Official Document](chainsight-overview/official-document.md)
+* [Ecosystem](chainsight-overview/ecosystem.md)
 * [FAQ](chainsight-overview/faq.md)
 
 ## Chainsight Oracle
