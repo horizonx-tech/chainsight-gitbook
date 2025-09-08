@@ -21,18 +21,6 @@
   * [Oracle Contract](chainsight-oracle-portal/oracle-components/oracle-contract.md)
   * [Multi-Source Aggregated Oracle](chainsight-oracle-portal/oracle-components/multi-source-aggregated-oracle.md)
 
-## Placeholder
-
-* [Introduction (OLD)](placeholder/introduction-old.md)
-* [Motivation](placeholder/motivation.md)
-* [How to use Chainsight?](placeholder/how-to-use-chainsight.md)
-* [Official Document](placeholder/official-document.md)
-* [FAQ](placeholder/faq.md)
-
-## Chainsight Network
-
-* [Overview](chainsight-network/system-outline.md)
-
 ## Project Links
 
 * [Landing Page](https://chainsight.network/)
