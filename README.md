@@ -1,7 +1,8 @@
 ---
 description: >-
-  ChainSight brings institutional-grade financial markets to Hyperliquid through
-  advanced on-chain oracles.
+  ChainSight brings global financial markets to Hyperliquid through native,
+  domain-specific oracles designed to suit the needs of institutional-grade
+  trading.
 ---
 
 # Introduction

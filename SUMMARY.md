@@ -1,14 +1,17 @@
 # Table of contents
 
-## Chainsight Overview
-
-* [Introduction](README.md)
-
 ## Chainsight Perps
 
-* [Overview](chainsight-perps/overview.md)
-* [HIP-3 Context & Integration](chainsight-perps/hip-3-context-and-integration.md)
-* [Variance Perps](chainsight-perps/variance-perps.md)
+* [Introduction](README.md)
+* [Motivation](chainsight-perps/motivation.md)
+* [Why Hyperliquid HIP-3 Matters](chainsight-perps/why-hyperliquid-hip-3-matters.md)
+* [Variance Perps](chainsight-perps/variance-perps/README.md)
+  * [Use Cases](chainsight-perps/variance-perps/use-cases.md)
+* [Exansion Path](chainsight-perps/exansion-path.md)
+* [Risks](chainsight-perps/risks/README.md)
+  * [Slashing Risk](chainsight-perps/risks/slashing-risk.md)
+  * [Oracle Risk](chainsight-perps/risks/oracle-risk.md)
+  * [Audit](chainsight-perps/risks/audit.md)
 
 ## Chainsight Oracle (Portal)
 
