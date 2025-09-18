@@ -2,7 +2,7 @@
 
 ### Oracle Dependency
 
-All ChainSight perpetual markets rely on external price feeds to calculate funding rates and mark prices. Variance perpetuals specifically require accurate historical price data to calculate 30-day realized volatility.
+All Chainsight perpetual markets rely on external price feeds to calculate funding rates and mark prices. Variance perpetuals specifically require accurate historical price data to calculate 30-day realized volatility.
 
 ### Potential Oracle Failures
 

@@ -15,7 +15,7 @@ According to Hyperliquid's HIP-3 documentation, slashing may occur for:
 
 ### Impact on Traders
 
-If ChainSight's stake is slashed:
+If Chainsight's stake is slashed:
 
 * Markets may be paused or delisted
 * Open positions would follow Hyperliquid's standard settlement procedures
@@ -23,6 +23,6 @@ If ChainSight's stake is slashed:
 
 ### Mitigation
 
-ChainSight implements redundant oracle systems and monitoring infrastructure to prevent slashing events. However, traders should understand that builder slashing remains a protocol-level risk.
+Chainsight implements redundant oracle systems and monitoring infrastructure to prevent slashing events. However, traders should understand that builder slashing remains a protocol-level risk.
 
 _For complete slashing parameters, refer to_ [_Hyperliquid's HIP-3 documentation_](https://hyperliquid.gitbook.io/hyperliquid-docs/hyperliquid-improvement-proposals-hips/hip-3-builder-deployed-perpetuals)

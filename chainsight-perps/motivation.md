@@ -49,4 +49,4 @@ We're not just adding products—we're completing the market. When every major a
 
 This isn't incrementalism. It's the foundation for finance to actually migrate on-chain. Not just the speculative pieces—all of it.
 
-ChainSight exists to build these bridges. One perpetual at a time.
+Chainsight exists to build these bridges. One perpetual at a time.

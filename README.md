@@ -1,6 +1,6 @@
 ---
 description: >-
-  ChainSight brings global financial markets to Hyperliquid through native,
+  Chainsight brings global financial markets to Hyperliquid through native,
   domain-specific oracles designed to suit the needs of institutional-grade
   trading.
 ---
@@ -9,7 +9,7 @@ description: >-
 
 ## What We're Building
 
-ChainSight is deploying perpetual markets on Hyperliquid via HIP-3, starting with variance perpetuals - the first clean volatility exposure in DeFi. Our exchange will expand to include major indices (S\&P 500, NASDAQ), forex pairs, and commodities, all powered by our custom oracle infrastructure.
+Chainsight is deploying perpetual markets on Hyperliquid via HIP-3, starting with variance perpetuals - the first clean volatility exposure in DeFi. Our exchange will expand to include major indices (S\&P 500, NASDAQ), forex pairs, and commodities, all powered by our custom oracle infrastructure.
 
 ## Core Products
 
@@ -25,6 +25,6 @@ ChainSight is deploying perpetual markets on Hyperliquid via HIP-3, starting wit
 * Major forex: EUR/USD, GBP/USD, USD/JPY
 * Commodities: Gold, Oil, Silver
 
-## Why ChainSight?
+## Why Chainsight?
 
 Unlike basic perpetual exchanges, we specialize in complex instruments that require sophisticated data processing and flexible data access. Our variance perps calculate real-time volatility metrics that would be impossible with standard price oracles. This same infrastructure enables us to bring any traditional market on-chain with institutional-grade reliability.

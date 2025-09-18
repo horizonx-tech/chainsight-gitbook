@@ -4,7 +4,7 @@
 
 ### Our Roadmap to Complete Markets
 
-ChainSight's vision extends beyond variance perpetuals. We're systematically bringing every major asset class on-chain, prioritizing based on liquidity depth, institutional demand, and technical readiness.
+Chainsight's vision extends beyond variance perpetuals. We're systematically bringing every major asset class on-chain, prioritizing based on liquidity depth, institutional demand, and technical readiness.
 
 ***
 
